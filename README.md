@@ -10,7 +10,7 @@ The controller is a four-state finite state machine that accepts coins, tracks t
 |---|---|
 | Testbench | 9 scenarios, **34 checks, 0 failures** |
 | Simulation length | 466 ns |
-| Synthesis (Yosys) | 135 cells: 123 logic gates + 12 D flip-flops |
+| Synthesis (Yosys) | 135 cells: 123 logic gates + 12 D Flip-Flops |
 
 ## Features
 
